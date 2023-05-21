@@ -1,0 +1,15 @@
+
+
+faq---------------------
+Tab #fafafa
+border #dfdfdf  or  #b1b1b1
+Content #fafafa
+Title #170ca4
+
+border-radius: 8px;padding: 40px;
+(replace 40 with 10)
+
+
+
+
+
