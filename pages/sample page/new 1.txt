@@ -1,6 +1,60 @@
+Basic and usefull info
 
 
-faq---------------------
+In content image ---------
+
+<br><br>
+<amp-img style="border:10px solid white;">
+    <img src="assets/images/02.jpg">
+</amp-img>
+<br>
+
+-----------------------------------------------------------------------------
+
+image with link ---------
+
+<br><br>
+<a href="tel:8805525431">
+<amp-img style="border:10px solid white;">
+    <img src="assets/images/ad1.jpg">
+</amp-img></a>
+<br>
+
+-----------------------------------------------------------------------------
+
+FOR AD IMAGES AFTER INSTERT FOOLOWING CODE -----------
+
+        <amp-accordion class="accordion" expand-single-section="">
+
+
+<!--
+Advertisement 
+-->
+<a href="tel:8007262504">
+<amp-img style="border:10px solid white;">
+    <img src="assets/images/ad2.jpeg">
+</amp-img></a>					
+<amp-accordion class="accordion" expand-single-section="">
+
+
+-----------------------------------------------------------------------------
+
+
+Call button size increase ----------
+
+1) changes in css--
+.display-7{font-family: 'Inter',sans-serif;font-size: 1.1rem;}
+
+and
+
+2) changes in content--
+display-7"
+width="20" height="20"
+
+
+-----------------------------------------------------------------------------
+
+faq css---------------------
 Tab #fafafa
 border #dfdfdf  or  #b1b1b1
 Content #fafafa
